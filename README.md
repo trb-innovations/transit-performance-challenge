@@ -13,7 +13,7 @@ The contest aims to advance the use of data by transit agencies to inform decisi
 ## Data Description
 Contestants have a variety of options to select from regarding data. Contestants working within a transit agency may select to utilize data from within the transit agency that he/she works. Alternatively, contestants are welcome to utilize data already provided publically through GTFS feeds (link below) or data provided for use in this contest by the following agencies:
 
-   - [Metro Transit]() (Minneapolis)
+   - [Metro Transit](Metro%20Transit%20Bus%20Incidents) (Minneapolis)
    - King County (Washington)
    - Denver RTD (Colorado)
    
