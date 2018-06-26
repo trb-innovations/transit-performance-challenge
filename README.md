@@ -5,7 +5,7 @@ _Sponsored by Transit Management and Performance Committee and Joint Subcommitte
 This repository will contain contest guidelines and data for the TRB Innovations in Transit Performance Measurement Challenge.  Contestants can use this repository to download the data.
 
 ## Deadline for Submission
-October 1, 2018
+August 31, 2018
 
 ## Competition Objectives
 The contest aims to advance the use of data by transit agencies to inform decisions. Using provided data as part of the contest and/or an agency’s own data, participants are encouraged to develop innovative approaches to analyzing data and communicating results. The contest is also designed to provide a professional development opportunity for young transit agency employees and encourage their participation in TRB.
