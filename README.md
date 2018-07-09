@@ -22,7 +22,9 @@ Contestants have a variety of options for data. Contestants may select to utiliz
 
 ## What to Submit
 
-1. An innovative performance product. Submissions can be an online dashboard, app, storyboard, powerpoint, report or something else. Participants are encouraged to use interactive visualization tools, but are not required to do so. The submitter must ensure that the performance product is fully-functional and viewable using common software or a free reader.
+1. An innovative performance product. 
+
+   - Submissions can be an online dashboard, app, storyboard, powerpoint, report or something else. Participants are encouraged to use interactive visualization tools, but are not required to do so. The submitter must ensure that the performance product is fully-functional and viewable using common software or a free reader.
 
 2. A narrative write-up (no more than 6 pages total) that answers the following questions:
 
