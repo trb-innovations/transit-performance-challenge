@@ -14,7 +14,6 @@ The contest aims to advance the use of data by transit agencies to inform decisi
 Contestants have a variety of options for data. Contestants may select to utilize data from within the agency he/she works. Alternatively, contestants are welcome to utilize publically-available data via API/GTFS feeds, data provided on this contest's github site, or from other challenges.
 
    - [Metro Transit](Metro%20Transit%20Bus%20Incidents) (Minneapolis)
-   - King County (Washington)
    - Denver RTD (Colorado)
    
   [Click here](https://github.com/swissnexSF/Urban-Data-Challenge) for the datasets from the [2013 Urban Data Challenge](http://datacanvas.org/public-transportation/) featuring San Francisco, Zurich, and Geneva.
