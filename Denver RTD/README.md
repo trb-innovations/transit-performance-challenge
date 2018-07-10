@@ -6,7 +6,7 @@ _07/09/2018_
 
 The data set is for fleets break downs (technical symptom cause) and operational customers count on a route and trip level. There are five types of data set of breakdown and operational trip information
 
-1. **[Break down information](Fleets%Technical%Breakdown0117to0618.csv)** – Has the duration of the breakdown, on the route name, date time stamp with the technical symptom codes. (Fleets technical breakdown0117to0618.csv)
+1. **[Break down information](https://github.com/trb-innovations/transit-performance-challenge/blob/master/Denver%20RTD/Fleets%20Technical%20Breakdown0117to0618.csv)** – Has the duration of the breakdown, on the route name, date time stamp with the technical symptom codes. (Fleets technical breakdown0117to0618.csv)
 
     **Meta Data**
     
