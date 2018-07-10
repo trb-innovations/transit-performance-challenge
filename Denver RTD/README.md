@@ -6,7 +6,7 @@ _07/09/2018_
 
 The data set is for fleets break downs (technical symptom cause) and operational customers count on a route and trip level. There are five types of data set of breakdown and operational trip information
 
-1. **Break down information** – Has the duration of the breakdown, on the route name, date time stamp with the technical symptom codes. (Fleets technical breakdown0117to0618.csv)
+1. **[Break down information](Fleets%Technical%Breakdown0117to0618.csv)** – Has the duration of the breakdown, on the route name, date time stamp with the technical symptom codes. (Fleets technical breakdown0117to0618.csv)
 
     **Meta Data**
     
@@ -170,7 +170,7 @@ The data set is for fleets break downs (technical symptom cause) and operational
     
     1/5/2017,9390,,1044961813,1044961807,13225,20089,20100,20940,20799,1000586,1074,6128212,266493530,N-Bound,0,,100,1074,1,6409788,110478038,15138,4,0.000000000000000,7,7,6.89315393747527
 
-4. **Nom\_Line** – Lists of all line definitions, aka RTD Routes
+4. **[Nom\_Line](Nom_Lines.csv)** – Lists of all line definitions, aka RTD Routes
 
     |Column\_name     |       Column\_type    |    Column\_desc|
     |-------------------|-----------------------|------------------|
