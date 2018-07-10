@@ -1,4 +1,4 @@
-**Rolling Assets Technical Break Down and operational Data set**
+## Rolling Assets Technical Break Down and Operational Data Set
 
 [_Gemechisa.ayana@rtd-denver.com_](mailto:Gemechisa.ayana@rtd-denver.com)
 
@@ -9,6 +9,7 @@ The data set is for fleets break downs (technical symptom cause) and operational
 1. **Break down information** – Has the duration of the breakdown, on the route name, date time stamp with the technical symptom codes. (Fleets technical breakdown0117to0618.csv)
 
     **Meta Data**
+    
     The provided data set for Break down information is from Q1 2017 to Q2, 2018 and has 5,354 rows.
 
     |Column\_name     |       Column\_type    |    Column\_desc|
@@ -40,6 +41,7 @@ The data set is for fleets break downs (technical symptom cause) and operational
 2.  **Trip Information** – Has Information about the Vehicle trips, all trips performed by Vehicle during a day.
 
     **Meta Data**
+    
     The provided data set for Vehicle trip is from Q1 2017 to Q2, 2018.
 
     Vehicle trip0418to 0618 has 1,048,535 rows; Vehicle trip0118to 0318 has 1,048,535 rows; Vehicle trip1017to 1217 has 1,045,056 rows; Vehicle trip0717to 0917 has 1,048,535 rows; Vehicle trip0417to 0617 has 1,037,185 rows, Vehicle trip0117to 0317 has 955,655 Rows with the following columns
@@ -180,6 +182,7 @@ The data set is for fleets break downs (technical symptom cause) and operational
     |LNAME         |       VARCHAR2         |       Line Long Name|
 
     **Sample Data**
+    
     ID,CODE,VALID\_FROM,VALID\_UNTIL,SNAME,LNAME
 
     1000496,MDCR,1/1/1970,1/1/2036,682,Meridian call-n-Ride
