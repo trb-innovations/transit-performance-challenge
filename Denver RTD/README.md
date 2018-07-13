@@ -38,7 +38,7 @@ The data set is for fleets break downs (technical symptom cause) and operational
 
 
 
-2.  **Trip Information** – Has Information about the Vehicle trips, all trips performed by Vehicle during a day.
+2.  **[Trip Information](https://github.com/trb-innovations/transit-performance-challenge/tree/master/Denver%20RTD/Vehicle%20Trip)** – Has Information about the Vehicle trips, all trips performed by Vehicle during a day.
 
     **Meta Data**
     
