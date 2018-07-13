@@ -112,7 +112,7 @@ The data set is for fleets break downs (technical symptom cause) and operational
     3/31/2018,4308986,,1498063387,1498063301,0,52206,52200,54420,54340,4342329,2157,8949665,860435638,E-Bound,0,2157,9050373,111687496
 
 
-3. **Vehicle Trip Passengers** – Lists of all trips performed by vehicles during a day with passenger information.
+3. **[Vehicle Trip Passenger](https://github.com/trb-innovations/transit-performance-challenge/tree/master/Denver%20RTD/Vehicle%20Trip%20Passenger)** – Lists of all trips performed by vehicles during a day with passenger information.
 
     Vehicle tripPassenger0117to 0617 has 1,048,543rows; Vehicle tripPassenger0117to 0617 has 1,048,543rows and Vehicle tripPassenger0118to 0618 has 1,048,543 rows. Trip detail, route name and Vehicle Side Number can be found from **Vehicle Trip** using an event number, id from **nom\_vehicle** and Route name using &#39;Code&#39; from **Nom\_Line** respectively.
 
