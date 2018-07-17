@@ -41,10 +41,8 @@ The data set is for fleets break downs (technical symptom cause) and operational
 2.  **[Trip Information](https://github.com/trb-innovations/transit-performance-challenge/tree/master/Denver%20RTD/Vehicle%20Trip)** – Has Information about the Vehicle trips, all trips performed by Vehicle during a day.
 
     **Meta Data**
-    
-    The provided data set for Vehicle trip is from Q1 2017 to Q2, 2018.
 
-    Vehicle trip0418to 0618 has 1,048,535 rows; Vehicle trip0118to 0318 has 1,048,535 rows; Vehicle trip1017to 1217 has 1,045,056 rows; Vehicle trip0717to 0917 has 1,048,535 rows; Vehicle trip0417to 0617 has 1,037,185 rows, Vehicle trip0117to 0317 has 955,655 Rows with the following columns
+    The dataset for the the Q1 2018 Vehicle trips (split into 6 smaller files) contains the following columns:
 
     |Column\_name     |       Column\_type    |    Column\_desc|
     |-------------------|-----------------------|------------------|
@@ -114,7 +112,7 @@ The data set is for fleets break downs (technical symptom cause) and operational
 
 3. **[Vehicle Trip Passenger](https://github.com/trb-innovations/transit-performance-challenge/tree/master/Denver%20RTD/Vehicle%20Trip%20Passenger)** – Lists of all trips performed by vehicles during a day with passenger information.
 
-    Vehicle tripPassenger0117to 0617 has 1,048,543rows; Vehicle tripPassenger0117to 0617 has 1,048,543rows and Vehicle tripPassenger0118to 0618 has 1,048,543 rows. Trip detail, route name and Vehicle Side Number can be found from **Vehicle Trip** using an event number, id from **nom\_vehicle** and Route name using &#39;Code&#39; from **Nom\_Line** respectively.
+    The dataset for the the Q1 2018 Vehicle trip passenger (split into 6 smaller files) contains trip detail, route name and Vehicle Side Number can be found from **Vehicle Trip** using an event number, id from **nom\_vehicle** and Route name using &#39;Code&#39; from **Nom\_Line** respectively.
 
     |Column\_name     |       Column\_type    |    Column\_desc|
     |-------------------|-----------------------|------------------|
